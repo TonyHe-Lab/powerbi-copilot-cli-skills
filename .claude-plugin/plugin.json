@@ -5,6 +5,8 @@
   "author": {
     "name": "Local refactor from Data Goblin marketplace"
   },
+  "homepage": "https://github.com/TonyHe-Lab/powerbi-copilot-cli-skills",
+  "repository": "https://github.com/TonyHe-Lab/powerbi-copilot-cli-skills",
   "license": "GPL-3.0",
   "keywords": [
     "power-bi",

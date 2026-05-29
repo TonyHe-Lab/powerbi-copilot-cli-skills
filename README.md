@@ -2,6 +2,8 @@
 
 Focused GitHub Copilot CLI plugin for the parts of `data-goblin/power-bi-agentic-development` that are most useful for day-to-day Power BI work: semantic modeling, DAX, Power Query, report design, and PBIP/TMDL management.
 
+Published repository: `https://github.com/TonyHe-Lab/powerbi-copilot-cli-skills`
+
 ## Why this refactor exists
 
 The upstream marketplace is broad and strong, but it is optimized as a multi-plugin collection. This project narrows that scope into a single Copilot-friendly plugin with:
@@ -43,7 +45,9 @@ The project keeps the upstream plugin directory shape so it stays close to the s
 
 ## Publishing and use
 
-This folder is shaped as a plugin root. To reuse it in GitHub Copilot CLI, publish this directory to a GitHub repository and install it as a plugin from that repository.
+This folder is shaped as a plugin root. To reuse it in GitHub Copilot CLI, install it from:
+
+`https://github.com/TonyHe-Lab/powerbi-copilot-cli-skills`
 
 Useful checks once published:
 

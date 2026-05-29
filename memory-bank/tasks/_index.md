@@ -1,6 +1,7 @@
 # Tasks Index
 
 ## In Progress
+- [TASK002] Publish and test plugin installation - Remote repo created, validating live Copilot CLI install flow
 
 ## Pending
 
