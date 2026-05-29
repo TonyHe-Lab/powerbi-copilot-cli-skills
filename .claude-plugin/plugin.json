@@ -1,0 +1,19 @@
+{
+  "name": "powerbi-copilot-cli-skills",
+  "version": "0.1.0",
+  "description": "Focused GitHub Copilot CLI plugin for Power BI semantic modeling, DAX, Power Query, report design, and PBIP/TMDL workflows.",
+  "author": {
+    "name": "Local refactor from Data Goblin marketplace"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "power-bi",
+    "copilot-cli",
+    "semantic-model",
+    "dax",
+    "power-query",
+    "pbip",
+    "tmdl",
+    "report-design"
+  ]
+}
