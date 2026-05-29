@@ -2,7 +2,7 @@
 
 ## Current focus
 
-Publishing the focused Copilot CLI plugin version from the upstream Power BI marketplace and testing first-run usage.
+Initial publish and live install are complete. Current focus is post-install usage and future refinement.
 
 ## Current decisions
 
@@ -14,5 +14,5 @@ Publishing the focused Copilot CLI plugin version from the upstream Power BI mar
 
 ## Next likely steps
 
-- test the skills in a live Copilot CLI session
 - expand a skill only after repeated real-world gaps appear
+- add more examples only when a recurring usage gap is observed

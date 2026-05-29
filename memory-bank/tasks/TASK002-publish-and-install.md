@@ -1,6 +1,6 @@
 # [TASK002] - Publish and test plugin installation
 
-**Status:** In Progress  
+**Status:** Completed  
 **Added:** 2026-05-29  
 **Updated:** 2026-05-29
 
@@ -21,18 +21,20 @@ The fastest path is to publish the local project to GitHub first, then validate 
 
 ## Progress Tracking
 
-**Overall Status:** In Progress - 75%
+**Overall Status:** Completed - 100%
 
 ### Subtasks
 | ID | Description | Status | Updated | Notes |
 |----|-------------|--------|---------|-------|
 | 2.1 | Create remote repository | Complete | 2026-05-29 | Public repository created under TonyHe-Lab |
 | 2.2 | Push source to remote | Complete | 2026-05-29 | Main branch pushed successfully |
-| 2.3 | Update repository metadata | In Progress | 2026-05-29 | Manifest and README being aligned to live repository URL |
-| 2.4 | Verify live Copilot CLI install flow | In Progress | 2026-05-29 | Interactive check still pending |
+| 2.3 | Update repository metadata | Complete | 2026-05-29 | Manifest and README aligned to live repository URL |
+| 2.4 | Verify live Copilot CLI install flow | Complete | 2026-05-29 | `/plugin install` and `/skills info writing-dax` validated in Copilot CLI |
 
 ## Progress Log
 ### 2026-05-29
 - Initialized the local git repository and created the first commit.
 - Created `TonyHe-Lab/powerbi-copilot-cli-skills` on GitHub and pushed `main`.
 - Started updating project metadata to point to the published repository.
+- Verified live installation in Copilot CLI with `/plugin install TonyHe-Lab/powerbi-copilot-cli-skills`.
+- Confirmed the plugin loads as a second installed plugin and `writing-dax` resolves from the installed plugin path.

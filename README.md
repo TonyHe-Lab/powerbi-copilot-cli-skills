@@ -49,6 +49,21 @@ This folder is shaped as a plugin root. To reuse it in GitHub Copilot CLI, insta
 
 `https://github.com/TonyHe-Lab/powerbi-copilot-cli-skills`
 
+In Copilot CLI:
+
+```text
+/plugin install TonyHe-Lab/powerbi-copilot-cli-skills
+```
+
+Then verify:
+
+```text
+/plugin list
+/skills info writing-dax
+```
+
+If the new skills do not appear in the current session immediately, start a new Copilot CLI session once. In validation, the plugin installed successfully right away, and the skills became visible in the next fresh session.
+
 Useful checks once published:
 
 ```text
